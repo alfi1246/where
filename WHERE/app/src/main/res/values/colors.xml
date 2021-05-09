@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00c0ff</color>
+    <color name="colorPrimaryDark">#00c0ff</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="MainArkaPlan">#00c0ff</color>
+    <color name="loginText">#ffffff</color>
+    <color name="loginNoneAccount">#ff5757</color>
+    <color name="mapText">#2a313d</color>
+</resources>
